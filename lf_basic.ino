@@ -1,5 +1,7 @@
 // Very basic line follower
 
+// Testing Git sync is working properly
+
 // No turning to the correct angle - just sensor calibration on one eye.
 
 // After calibration the bot will shift backwards momentarily to indicate it's ready
